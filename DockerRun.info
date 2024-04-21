@@ -1,0 +1,7 @@
+Build it
+
+docker build -t python-test-app .
+
+Run it
+
+docker run python-test-app
